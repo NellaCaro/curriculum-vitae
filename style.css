@@ -3,17 +3,10 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 0;
     padding: 0;
+    background-color: #F28C8C;
     color: #F2D1B3;
   }
   
-container {
-    width: 100%;
-    max-width: 960px;
-    margin: 0 auto;
-    padding: 0 20px;
-    background-color: #F28C8C;
-  }
-
   h1 {
     color: #2D5F73;
   }
