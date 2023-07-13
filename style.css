@@ -17,6 +17,7 @@ body {
   
   p {
     color: #333;
+    margin: 0 20px; /* Define un margen de 20px a izquierda y derecha */
   }
   
   /* Estilos específicos para secciones */
