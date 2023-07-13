@@ -1,20 +1,21 @@
 /* Estilos generales */
 body {
-    font-family: Arial, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 0;
     padding: 0;
+    color: #F2D1B3;
   }
   
   h1 {
-    color: #333;
+    color: #2D5F73;
   }
   
   h2 {
-    color: #666;
+    color: #538EA6;
   }
   
   p {
-    color: #999;
+    color: #333;
   }
   
   /* Estilos específicos para secciones */
@@ -33,11 +34,11 @@ body {
   
   .experiencia h3 {
     font-size: 18px;
-    color: #333;
+    color: #538EA6;
   }
   
   .experiencia p {
-    color: #666;
+    color: #333;
   }
   
   /* Estilos para la sección de habilidades */
